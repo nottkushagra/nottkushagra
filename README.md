@@ -135,12 +135,12 @@ class Kushagra:
 <br/>
 <sub>🎼 Genre: Full-Stack / Web App</sub>
 <br/>
-A short, punchy line about what Ornamenta does and the impact it has.
+Ornamenta reimagines masculine jewelry retail with a sleek, user-focused shopping experience
 <br/><br/>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
 <br/><br/>
-<a href="#">▶ Live Demo</a> · <a href="https://github.com/nottkushagra/Ornamenta">⏸ Source Code</a>
+<a href="https://nottkushagra.github.io/Ornamenta/">▶ Live Demo</a> · <a href="https://github.com/nottkushagra/Ornamenta">⏸ Source Code</a>
 
 </td>
 <td width="50%">
@@ -149,7 +149,7 @@ A short, punchy line about what Ornamenta does and the impact it has.
 <br/>
 <sub>🎼 Genre: AI / Accessibility Tech</sub>
 <br/>
-A short, punchy line about what SignBridge does and the impact it has.
+SignBridge bridges the gap between sign language and speech, making conversations truly accessible for everyone.
 <br/><br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/AI-1DB954?style=flat-square&logo=tensorflow&logoColor=white"/>
