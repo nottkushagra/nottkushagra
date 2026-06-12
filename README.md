@@ -19,7 +19,7 @@
 <tr>
 <td align="center" style="border-radius:16px; border:1px solid #1DB95455; background:linear-gradient(145deg,#121212,#0a0a0a); padding:20px;">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=314pafgajgxv3t6n45oao24pvaou&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=true&hide_remaster=true&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=314pafgajgxv3t6n45oao24pvaou&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=true&hide_remaster=true&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=314pafgajgxv3t6n45oao24pvaou&redirect=true)
 
 </td>
 </tr>
