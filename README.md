@@ -15,11 +15,13 @@
 
 ### 🎧 Now Playing on Kushagra.fm
 
-<table>
+<table width="100%">
 <tr>
-<td align="center" style="border-radius:16px; border:1px solid #1DB95455; background:linear-gradient(145deg,#121212,#0a0a0a); padding:20px;">
+<td align="center" width="100%" style="border-radius:16px; border:1px solid #1DB95455; background:linear-gradient(145deg,#121212,#0a0a0a); padding:20px;">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=314pafgajgxv3t6n45oao24pvaou&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=true&hide_remaster=true&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=314pafgajgxv3t6n45oao24pvaou&redirect=true)
+<a href="https://open.spotify.com/user/314pafgajgxv3t6n45oao24pvaou?si=eyYH4eomTmCWRXyZpADAMg">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=314pafgajgxv3t6n45oao24pvaou&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=true&hide_remaster=true&bar_color=53b14f&bar_color_cover=false&mode=dark" width="100%"/>
+</a>
 
 </td>
 </tr>
@@ -208,8 +210,6 @@ A short, punchy line about what SignBridge does and the impact it has.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nottkushagra&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=1DB954&text_color=ffffff" width="48%"/>
 
 <br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=nottkushagra&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8"/>
 
 </div>
 
